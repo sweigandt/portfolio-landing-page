@@ -4,7 +4,7 @@ h1 {
 }
 
 p.about {
-  width: 40%
+  width: 50%
 
   
 }
@@ -28,4 +28,9 @@ body {
   border: 2px solid black;
   padding: 4px;
   background-color: lightpink;
+}
+
+.hobbies-list{
+  width: 300px;
+  
 }
