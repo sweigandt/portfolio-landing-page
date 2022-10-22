@@ -28,6 +28,10 @@ body {
   background-color:lavender;
 }
 
+.highlight {
+  color: red;
+}
+
 h3 {
   text-align: center;
 
@@ -41,7 +45,3 @@ h3 {
   background-color: lightpink;
 }
 
-.hobbies-list{
-  width: 300px;
-  
-}
