@@ -3,8 +3,18 @@ h1 {
 
 }
 
+p.about {
+  width: 40%
+
+  
+}
+
+img {
+  float: left;
+}
+
 h2 {
-  text-align: center;
+  text-align: left;
   font-style: italic;
 }
 
@@ -12,9 +22,10 @@ body {
   background-color:lavender;
 }
 
-.sidebar {
+.link-list{
   font-size: small;
   margin: 12px;
   border: 2px solid black;
   padding: 4px;
+  background-color: lightpink;
 }
