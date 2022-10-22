@@ -14,4 +14,7 @@ body {
 
 .sidebar {
   font-size: small;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
 }
