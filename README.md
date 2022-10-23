@@ -2,7 +2,7 @@
 
 #### By _**Samantha Weigandt**_
 
-#### _This website ewill tell you about me and demonstrate what I've learned so ffar at Epicodus_
+#### _This website will tell you about me and demonstrate what I've learned so far at Epicodus_
 
 ## Technologies Used
 
