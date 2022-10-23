@@ -5,11 +5,14 @@ h1 {
 }
 
 p.short {
+  font-family: fantasy;
   width: 70%
+  
 }
 
 p.long {
-  width: 60;
+  font-family: fantasy;
+  width: 100;
 }
 
 img {
@@ -31,7 +34,7 @@ body {
 }
 
 h3 {
-  text-align: center;
+  text-align: left;
 
 }
 
@@ -43,7 +46,9 @@ h3 {
   background-color: lightpink;
 }
 
-.hobbies-list{
-  text-align: center;
-  color: hotpink;
+.order{
+  text-align: left;
+  color: red;
+  font-size: larger;
+  font-family: fantasy;
 }
