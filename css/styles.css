@@ -2,8 +2,6 @@ h1 {
   text-align:  center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: purple
-
-
 }
 
 p.short {
@@ -11,7 +9,7 @@ p.short {
 }
 
 p.long {
-  width: 50;
+  width: 60;
 }
 
 img {
@@ -45,3 +43,7 @@ h3 {
   background-color: lightpink;
 }
 
+.hobbies-list{
+  text-align: center;
+  color: hotpink;
+}
